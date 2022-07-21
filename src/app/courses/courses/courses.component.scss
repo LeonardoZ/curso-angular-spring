@@ -1,3 +1,10 @@
 table {
   width: 100%;
 }
+
+.loading-spinner {
+  display: flex;
+  background-color: rgba(0,0,0,0.10);  padding: 25px;
+  align-items: center;
+  justify-content: center;
+}
